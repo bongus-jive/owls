@@ -1,9 +1,9 @@
 {
-  "version" : "1.0",
-  "author" : "pathicc star",
+  "version" : "1.1",
+  "author" : "patman",
   "tags" : "Miscellaneous|Armor and Clothes",
-  "description" : "put an owl on places where owls shouldnt be\n\ncroft it with your h a n d s\n\n\n[url=https://discord.gg/GdsQSgV]come sitt on our stacc[/url]",
-  "name" : "pathicc-owls",
+  "description" : "allows you to capture owls with a bug net\n\nthat's it\n\n\n[url=https://discord.gg/GdsQSgV]come sitt on our stacc[/url]",
+  "name" : "pat_owls",
   "friendlyName" : "owls",
   "steamContentId" : "1316601787",
   "link" : "steam://url/CommunityFilePage/1316601787"

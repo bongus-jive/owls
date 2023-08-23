@@ -1,0 +1,4 @@
+[
+    { "op": "add", "path": "/dropPools/0/bugnet", "value": "pat_owlbugnet" },
+    { "op": "add", "path": "/baseParameters/scripts/-", "value": "/monsters/critter/owlcritter/pat_owlbugnet.lua" }
+]
